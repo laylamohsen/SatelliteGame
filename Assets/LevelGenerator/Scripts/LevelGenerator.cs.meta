@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b66b506b44c7eca40b08bad87e74c8a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _boardPrefab: {fileID: 2336236266812617353, guid: 977e470ecfb414fc9bc0fb8abeb7c0a2, type: 3}
+  - _bgCellPrefab: {fileID: 4868279087156050791, guid: df9e2ee146dec423e9690a5301231a33, type: 3}
+  - _nodePrefab: {fileID: 6012527295122756115, guid: fcd72154c34cc2848b962ca4b332baf5, type: 3}
+  - _simulateButton: {instanceID: 0}
+  - _allLevelList: {fileID: 11400000, guid: 0c42c6ab4e819f74a8685ba2109401ed, type: 2}
+  - currentLevelData: {fileID: 11400000, guid: 0599f91a7ddf7184a90ea1339fbcdaed, type: 2}
+  - _counterText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
